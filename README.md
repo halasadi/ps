@@ -1,7 +1,7 @@
 ps - periodic selection
 ==
 
-### 1.1 What is the probability of fixation of an allele under selection every P generations?
+### 1.1 The main question of this project: What is the probability of fixation of an allele under selection every P generations?
 
 While there are many papers addressing randomly varying selection coefficients, all have assumed selection occuring every single generation. I argue that the dynamic of periodic selection can be quite different because the only force between periods is drift. Intuitively, if P is large then selection plays a neglible role in the dynamics of the allele.
 
@@ -13,4 +13,3 @@ Suppose every 30 years a heatwave afflicts a region. Parrots - who have a long l
 Can this explain why rats cannot adapt to the flowering of bamboo: http://www.pbs.org/wgbh/nova/nature/rat-attack.html ?
 
 ### 2.1 Simulations
-
